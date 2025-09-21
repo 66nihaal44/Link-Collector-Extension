@@ -1,2 +1,2 @@
-# Site-Permissions-Extension
-Extension that allows user to set preset site permission settings.
+# Link-Collector-Extension
+Extension that allows user to collect all links from a website with header text.
