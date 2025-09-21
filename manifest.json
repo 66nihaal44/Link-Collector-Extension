@@ -6,5 +6,9 @@
   "icons": {
     "128": "new_icon.png",
     "16": "new_icon.png"
-  }
+  },
+  "content_scripts":[{
+    "js": ["collect.js"],
+    "matches": ["<all_urls>"]
+  }]
 }
